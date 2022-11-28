@@ -1,13 +1,13 @@
- ### Hi there, I'm Arjun Singh 👋  
+ ### Hi there, I'm Priyank Gupta 👋  
 
-<a href="https://arjun-porfolio.vercel.app">
+<a href="/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://ArjunSinghBhakunirohi.vercel.app" />
 </a>
-<a title="arjunbhakuni23@gmail.com" href="mailto:arjunbhakuni23@gmail.com">
+<a title="priyank764fz7@gmail.com" href="mailto:priyank764fz7@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
 </a>
-<a href="https://www.linkedin.com/in/arjun-singh-366476194/">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ArjunSinghBhakunirohi-ba4636136/" />
+<a href="/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="/" />
 </a>
 
 ---
@@ -28,11 +28,11 @@
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/ArjunSinghBhakuni">
-        <img src="https://komarev.com/ghpvc/?username=ArjunSinghBhakuni&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
+    <a href="">
+        <img src="https://komarev.com/ghpvc/?username=priyankfz7&label=Profile%20views&color=0e75b6&style=flat" alt="m-sehrawat" />
     </a>
-<!--     <a href="https://github.com/ArjunSinghBhakuni?tab=followers">
-        <img src="https://img.shields.io/github/followers/ArjunSinghBhakunit?label=Followers&style=social" alt="followers-count">
+<!--     <a href="https://github.com/priyankfz7?tab=followers">
+        <img src="https://img.shields.io/github/followers/priyankfz7?label=Followers&style=social" alt="followers-count">
     </a> -->
 </p>
  
