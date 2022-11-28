@@ -74,16 +74,16 @@
 
 
 <p display="flex" align="center">
-<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSinghBhakuni&hide=smalltalk&theme=algolia&layout=compact" width="400" />
+<img alt="Priyank Gupta's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankfz7&hide=smalltalk&theme=algolia&layout=compact" width="400" />
 
 
 
-  <a href="https://github.com/ArjunSinghBhakuni?tab=repositories">
-    <img width="400" height="auto"  alt="Arjun's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=ArjunSinghBhakuni&show_icons=true&theme=algolia&count_private=true" />
+  <a href="https://github.com/priyankfz7?tab=repositories">
+    <img width="400" height="auto"  alt="Priyank's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=priyankfz7&show_icons=true&theme=algolia&count_private=true" />
   </a>
   
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunSinghBhakuni&hide=smalltalk&theme=algolia&layout=compact" alt="ArjunSinghBhakuni" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankfz7&hide=smalltalk&theme=algolia&layout=compact" alt="Priyank Gupta" />
 </p>
 
 ---
