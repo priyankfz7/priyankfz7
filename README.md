@@ -1,7 +1,7 @@
  ### Hello World, I'm Priyank Gupta 👋  
 
 <a href="/">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://ArjunSinghBhakunirohi.vercel.app" />
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://priyankfz7.github.io/" />
 </a>
 <a title="priyank764fz7@gmail.com" href="mailto:priyank764fz7@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
