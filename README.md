@@ -1,12 +1,12 @@
  ### Hello World, I'm Priyank Gupta 👋  
 
-<a href="/">
+<a href="https://priyankfz7.github.io/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://priyankfz7.github.io/" />
 </a>
 <a title="priyank764fz7@gmail.com" href="mailto:priyank764fz7@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
 </a>
-<a href="/">
+<a href="https://linkedin.com/in/priyank-gupta-67a442249">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="/" />
 </a>
 
