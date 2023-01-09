@@ -83,6 +83,13 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankfz7&hide=smalltalk&theme=algolia&layout=compact" alt="Priyank Gupta" />
 </p>
 
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=priyankfz7&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
 ---
 
  
